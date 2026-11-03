@@ -5,10 +5,12 @@ A C# WPF practice project demonstrating the Model-View-ViewModel (MVVM) architec
 📁 Model
 
 Represents application data and business logic.
+
 📁 View
 
 Contains the WPF UI using XAML.
 Displays data and handles user interactions.
+
 📁 ViewModel
 
 Connects the Model and View.
