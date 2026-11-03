@@ -1,5 +1,3 @@
-# MVVM
-
 🚀 MVVM
 A C# WPF practice project demonstrating the Model-View-ViewModel (MVVM) architectural pattern through practical examples.
 
